@@ -21,7 +21,7 @@
 ### 📝Languages
 <img style="margin: 10px" src="https://skillicons.dev/icons?i=java,cs,c,html,css,js&" alt="Languages" />
 <img align="left" alt="Coding" width="400" src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif"<br>
-
+<br>
 ### 🏫Frameworks
 <img style="margin: 10px" src="https://skillicons.dev/icons?i=react,selenium,dotnet,bootstrap,tailwindcss&" alt="Frameworks" />
 <img align="left" alt="Coding" width="400" src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif"<br>
