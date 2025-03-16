@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=170&section=header)
+
 
 # <p align="center">Undergraduate BSc (Hons) in Software Engineering</p>
 
