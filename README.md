@@ -1,7 +1,7 @@
 
 
 <h1 align="center"> 
-  Hi there! 👋 I'm Gihansa Senukie 
+  Hi!👋 I'm Gihansa 
 </h1>
 
 # <h4 align="center">Undergraduate BSc (Hons) in Software Engineering</h4>
