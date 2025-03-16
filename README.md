@@ -1,6 +1,6 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=170&section=header)
 
-# <p align="center">Undergraduate BSc (Honours) in Software Engineering</p>
+# <p align="center">Undergraduate BSc (Hons) in Software Engineering</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=GihansaSenukie&color=blue&style=flat-square" alt="Profile views"/>
