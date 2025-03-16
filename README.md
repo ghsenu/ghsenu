@@ -1,48 +1,41 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:833ab4,50:feac5e,100:e53935&height=170&section=header" />
-</div>
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=170&section=header)
 
+# <p align="center">Undergraduate BSc (Honours) in Software Engineering</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=4834d4&size=42&center=true&vCenter=true&width=1000&height=70&lines=Hi+%F0%9F%91%8B%2C+I'm+GIHANSA+SENUKIE!">
+  <img src="https://komarev.com/ghpvc/?username=GihansaSenukie&color=blue&style=flat-square" alt="Profile views"/>
 </p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=4834d4&width=1000&lines=-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+)](https://git.io/typing-svg)
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=20C20E&center=true&vCenter=true&width=1200&height=45&lines=Undergraduate+in+BSc+(Hons)+Software+Engineering;NSBM+Green+University+(Plymouth)">
-</p >
-<img align="right" alt="Code" width="550" src="https://www.digisailor.com/assets/img/services-details/5.gif">
-
-<!--<center> -->
-
-<!-- </h3><img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"/></summary>
-<img align="right" alt="Coding" width="450" src="https://github.com/Anou26/Anou26/blob/main/coding-girl.gif"> -->
-
-### 📝Languages
-<img style="margin: 10px" src="https://skillicons.dev/icons?i=java,cs,c,html,css,js&" alt="Languages" />
-<img align="left" alt="Coding" width="400" src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif"<br>
-<br>
-
-### 🏫Frameworks
-<img style="margin: 10px" src="https://skillicons.dev/icons?i=react,selenium,dotnet,bootstrap,tailwindcss&" alt="Frameworks" />
-<img align="left" alt="Coding" width="400" src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif"<br>
-<br>
-
-### ⚙️Tools
-<img style="margin: 10px" src="https://skillicons.dev/icons?i=idea,vscode,git,androidstudio,postman,figma,notion&" alt="Tools" />
-<img align="left" alt="Coding" width="400" src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif"
-
-
-<br><br>
 <div align="center">
-  <p>
-    <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWU2NTBqZjltdGU0NXhvczlla3Vsd3BmcnYzcG04eHA5MXV4MGNiMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gdWuHK4952QBq/giphy.gif" height="300">
-    <a href="https://open.spotify.com/user/31r3tz3s65cwvwypi3mfr46zkztm">
-      <img src="https://spotify-recently-played-readme.vercel.app/api?user=31r3tz3s65cwvwypi3mfr46zkztm&count=5" alt="Spotify recently played" height="300">
-    </a>
-  </p>
+  <a href="https://github.com/GihansaSenukie"><img src="https://img.shields.io/badge/FOLLOW%20@GIHANSA_SENUKIE-gray?style=for-the-badge" alt="Follow Me"></a>
 </div>
-<br>
-</h3><img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"/></summary>
 
+---
 
+### 🌱 I’m currently learning *All kinds of things related to programming*
+### 💬 Ask me about *C#*
+### 📫 How to reach me: *[gihansasenukie@gmail.com](mailto:gihansasenukie@gmail.com)*
+
+---
+
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/7fd4efd6621565a2e09921d15de74e315fc4a8755660721dcb9ce5f97d27abcb/68747470733a2f2f63646e2e686173686e6f64652e636f6d2f7265732f686173686e6f64652f696d6167652f75706c6f61642f76313638313536323530383336352f6b39367a307833566a2e676966.gif">
+
+### 🚀 Languages & Frameworks
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+
+### 🛠 Tools
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+---
+
+### 📞 Connect with me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gihansa-senukie)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GihansaSenukie)
+
+---
