@@ -4,7 +4,7 @@
   Hi!👋 I'm Gihansa 
 </h1>
 
-# <h4 align="center">Undergraduate BSc (Hons) in Software Engineering</h4>
+<h4 align="center">Undergraduate BSc (Hons) in Software Engineering</h4>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=GihansaSenukie&color=blue&style=flat-square" alt="Profile views"/>
@@ -14,17 +14,13 @@
   <a href="https://github.com/GihansaSenukie"><img src="https://img.shields.io/badge/FOLLOW%20@GIHANSA_SENUKIE-gray?style=for-the-badge" alt="Follow Me"></a>
 </div>
 
----
 <img align="right" alt="Coding" width="300" src="https://camo.githubusercontent.com/7fd4efd6621565a2e09921d15de74e315fc4a8755660721dcb9ce5f97d27abcb/68747470733a2f2f63646e2e686173686e6f64652e636f6d2f7265732f686173686e6f64652f696d6167652f75706c6f61642f76313638313536323530383336352f6b39367a307833566a2e676966">
 
 ### 🌱 I’m currently learning *All kinds of things related to programming*
 ### 💬 Ask me about *C#*
 ### 📫 How to reach me:*[gihansasenukie@gmail.com](mailto:gihansasenukie@gmail.com)*
 
-
 ---
-
-
 
 ### 🚀 Languages & Frameworks
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
@@ -44,4 +40,3 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gihansa-senukie)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GihansaSenukie)
 
----
