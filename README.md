@@ -1,4 +1,4 @@
-
+<img align="right" src="https://i.pinimg.com/474x/6c/24/db/6c24dbb19ec2c665d7ed97a8007554d8.jpg" width="50" />
 
 <h1 align="center"> 
   Hi!👋 I'm Gihansa 
@@ -14,11 +14,12 @@
   <a href="https://github.com/GihansaSenukie"><img src="https://img.shields.io/badge/FOLLOW%20@GIHANSA_SENUKIE-gray?style=for-the-badge" alt="Follow Me"></a>
 </div>
 
+<img align="right" src="https://user-images.githubusercontent.com/74038190/216654112-f34391b7-72e0-4053-8849-30dcaeaa1aaa.gif" width="180" />
 
-<img align="right" alt="Coding" width="300" src="https://camo.githubusercontent.com/7fd4efd6621565a2e09921d15de74e315fc4a8755660721dcb9ce5f97d27abcb/68747470733a2f2f63646e2e686173686e6f64652e636f6d2f7265732f686173686e6f64652f696d6167652f75706c6f61642f76313638313536323530383336352f6b39367a307833566a2e676966">
+
 
 ### 🌱 I’m currently learning *All kinds of things related to programming*
-### 💬 Ask me about  *Java*
+### 💬 Ask me about  *JAVA☕*
 ### 📫 How to reach me:*[gihansasenukie@gmail.com](mailto:gihansasenukie@gmail.com)*
 
 ---
@@ -40,4 +41,32 @@
 ### 📞 Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gihansa-senukie-a3b577331/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ghsenu)
+
+## 📊 GitHub Status & Grind
+
+<table align="center">
+  <tr>
+    <td>
+      <img
+        src="https://github-readme-stats.vercel.app/api?username=ghsenu&show_icons=true&theme=tokyonight&hide_border=false&border_radius=12"
+        height="170"
+      />
+    </td>
+    <td>
+      <img
+        src="https://github-readme-streak-stats.herokuapp.com?user=ghsenu&theme=tokyonight&border_radius=12"
+        height="170"
+      />
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghsenu&layout=compact&theme=tokyonight&border_radius=12"
+    height="170"
+  />
+</p>
+
+
 
