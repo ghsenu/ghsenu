@@ -1,4 +1,4 @@
-<img align="right" src="https://i.pinimg.com/474x/6c/24/db/6c24dbb19ec2c665d7ed97a8007554d8.jpg" width="50" />
+
 
 <h1 align="center"> 
   Hi!👋 I'm Gihansa 
@@ -41,7 +41,7 @@
 ### 📞 Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gihansa-senukie-a3b577331/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ghsenu)
-
+---
 ## 📊 GitHub Status & Grind
 
 <table align="center">
