@@ -47,26 +47,20 @@
 <table align="center">
   <tr>
     <td>
-      <img
-        src="https://github-readme-stats.vercel.app/api?username=ghsenu&show_icons=true&theme=tokyonight&hide_border=false&border_radius=12"
-        height="170"
-      />
+      <img src="https://github-readme-stats.vercel.app/api?username=ghsenu&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12" height="170"/>
     </td>
-    <td>
-      <img
-        src="https://github-readme-streak-stats.herokuapp.com?user=ghsenu&theme=tokyonight&border_radius=12"
-        height="170"
-      />
-    </td>
+
   </tr>
 </table>
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghsenu&layout=compact&theme=tokyonight&border_radius=12"
-    height="170"
-  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghsenu&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" height="170"/>
 </p>
+
+
+
+
+
 
 
 
