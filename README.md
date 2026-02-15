@@ -2,7 +2,7 @@
 
 <h1 align="center"> 
   Hi!👋 I'm Gihansa 
-</h1>
+</h1>  
 
 <h4 align="center">Undergraduate BSc (Hons) in Software Engineering</h4>
 
