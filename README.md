@@ -5,7 +5,7 @@
 </h1>  
 
 <h4 align="center">Undergraduate BSc (Hons) in Software Engineering</h4>
-
+ 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=GihansaSenukie&color=blue&style=flat-square" alt="Profile views"/>
 </p>
